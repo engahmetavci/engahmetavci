@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+👋 I’m @engahmetavci, Having been an active professional in programming after different experiences. <br>
+👀 I always aim for the most functional, applicable, and readable code.<br>
+🌱 Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Engineer, passionate learner, and developer.<br>
+💞️ I’m currently focusing on Frontend Technologies.<br>
+📫 Proven strength and drive in group projects. Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork. Looking forward to working with creative teams on challenging projects.<br>
 <!--
 **engahmetavci/engahmetavci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
